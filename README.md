@@ -2,8 +2,7 @@
 
 Founder based in Munich, studying M.Sc. Robotics, Cognition, Intelligence at TUM.
 
-Currently building **PIOS**, a personal AI shopping agent (in progress, not live yet).
-Before that: **fyndl**, AI search and advice for refurbished electronics, built in the Gründerszene Fellowship (Axel Springer).
+Previously: **fyndl**, AI search and advice for refurbished electronics, built in the Gründerszene Fellowship (Axel Springer).
 
 **Selected work**
 
