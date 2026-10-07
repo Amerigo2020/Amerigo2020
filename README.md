@@ -1,4 +1,4 @@
-### Hi, I'm Amerigo
+<img src="./assets/terminal.svg" alt="Hi, I'm Amerigo. Robotics, Cognition, Intelligence at TUM. I build local-first AI tools." width="100%">
 
 Founder based in Munich, studying M.Sc. Robotics, Cognition, Intelligence at TUM.
 
