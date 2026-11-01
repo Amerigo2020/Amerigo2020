@@ -175,11 +175,11 @@ More experiments, forks and older work: [all public repositories](https://github
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amerigo2020&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=A371F7" alt="Amerigo's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amerigo2020&theme=github_dark" alt="Amerigo's GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amerigo2020&layout=compact&langs_count=8&hide=html,css,shell&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amerigo2020&theme=github_dark" alt="Top languages by repository" />
 </div>
 
 <div align="center">
@@ -190,7 +190,7 @@ More experiments, forks and older work: [all public repositories](https://github
 
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amerigo2020&bg_color=0D1117&color=00E5FF&line=A371F7&point=E6EDF3&area=true&hide_border=true" alt="Amerigo's GitHub activity graph" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amerigo2020&theme=github_dark" alt="Amerigo's GitHub profile details" width="100%" />
   </a>
 </div>
 
