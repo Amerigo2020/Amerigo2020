@@ -16,16 +16,16 @@
 
 ## 👨‍💻 About Me
 
-I'm Amerigo, a founder and M.Sc. student in Munich. I study **Robotics, Cognition, Intelligence at TUM**, build local-first AI tools and software end-to-end, and co-founded the **EuroTech Federation**. Most recently I built **fyndl**, an AI search engine for secondhand electronics, as a **Gründerszene Fellow** with Axel Springer. Before that I worked in transfer pricing at **EY** and on the IT service desk at **univativ**, supporting BayernLB.
+I'm Amerigo, a founder and M.Sc. student in Munich. I study **Robotics, Cognition, Intelligence at TUM** and build local-first AI tools and software end-to-end. Most recently I built **fyndl**, an AI search engine for secondhand electronics, as a **Gründerszene Fellow**  Before that I worked in IT at **univativ**, supporting BayernLB, and in transfer pricing at **EY**.
 
 I like systems that are fast, explainable and useful in the real world: a Rust motion planner that runs in the browser, a search engine for your own photos, or a tool that catches stale instructions in an AI agent's config. The common thread is turning a fuzzy problem into something deterministic, testable and easy to operate.
 
-- 🔭 **Currently working on:** [Velletti Consulting](https://ame.velletti.de/) (AI, automation, web and DevOps) and the [EuroTech Federation](https://www.eurotech-federation.com/) platform and IT.
+- 🔭 **Currently working on:** IT lead at Enactus München, [Velletti Consulting](https://ame.velletti.de/) (AI, automation, web and DevOps) and [fyndl](https://fyndl.online/).
 - 🎓 **Studying:** M.Sc. Robotics, Cognition, Intelligence at TUM.
 - 🌱 **Currently learning:** robot motion planning, spatial reasoning, local-first AI and reliable distributed systems.
 - 👯 **Looking to collaborate on:** local-first AI, robotics, developer tools and European tech communities.
 - 💬 **Ask me about:** Rust, Python, TypeScript, RAG, vector search, Docker, Linux and turning an idea into a working prototype.
-- 🏅 **Highlights:** TRACE accepted at CoopIS 2026 (sole author) · Gründerszene Fellow (one of 8) · EuroTech Federation Co-Founder · Enactus World Cup with Evolve.
+- 🏅 **Highlights:** TRACE accepted at CoopIS 2026 (sole author) · Gründerszene Fellow (one of 8) · Enactus World Cup with Evolve.
 - 📫 **How to reach me:** [portfolio@ame.velletti.de](mailto:portfolio@ame.velletti.de)
 
 ## 🚀 Selected Work
@@ -51,10 +51,10 @@ I like systems that are fast, explainable and useful in the real world: a Rust m
 
 ### Products & ventures
 
-- **[fyndl](https://fyndl.online/)** · AI search engine that unifies secondhand and refurbished electronics in one comparable view. Built in the Gründerszene Fellowship with Axel Springer.
-- **[Evolve](https://evolve-insekten.de/)** · Co-founded through Enactus: turns brewery waste into insect protein. Represented Germany at the Enactus World Cup in Bangkok.
+- **[fyndl](https://fyndl.online/)** · AI search engine that unifies secondhand and refurbished electronics in one comparable view. Built in the Gründerszene Fellowship.
+- **[Evolve](https://evolve-insekten.de/)** · Core founding team (Enactus): turns brewery waste into insect protein. Represented Germany at the Enactus World Cup in Bangkok.
 - **[Velletti Consulting](https://ame.velletti.de/)** · My home for software, AI automation, web and DevOps projects.
-- **[EuroTech Federation](https://www.eurotech-federation.com/)** · Co-founded a pan-European community for deep-tech builders, founders and researchers. I work on the platform and IT.
+- **[EuroTech Federation](https://www.eurotech-federation.com/)** · I work on the platform.
 
 ### Creator & web
 
@@ -117,8 +117,8 @@ More experiments, forks and older work: [all public repositories](https://github
 
 ## 💼 Beyond Code
 
-- **Entrepreneurship:** Built Fyndl, co-founded Evolve and the EuroTech Federation, and run Velletti Consulting.
-- **Community:** EuroTech Federation core team, Hackathon Hub Ambassador, Enactus München Relations Lead, EuroTech Week organizer and EuroTeQ Summer Games participant.
+- **Entrepreneurship:** Built Fyndl, co-founded Evolve, and run Velletti Consulting.
+- **Community:** EuroTech Federation, Hackathon Hub Ambassador, Enactus München Relations Lead and IT Lead, EuroTech Week organizer and EuroTeQ Summer Games participant.
 - **Communication:** Pitches, demos and articles for Gründerszene; comfortable explaining technical work to mixed audiences.
 - **Mentoring:** Mentored students across three countries and spent 14 years in the Münchner Domchor, later as a point of contact for younger singers.
 - **Systems thinking:** From IT service desk and Linux/VPS operations to APIs, data models and UIs.
@@ -129,6 +129,7 @@ More experiments, forks and older work: [all public repositories](https://github
 
 **Experience**
 
+- IT Lead, Enactus München (current)
 - Fellow, Gründerszene (Jul 2026 to present)
 - Founding Engineer, stealth startup (Apr 2026 to May 2026)
 - Self-employed, Velletti Consulting (Jul 2025 to present)
@@ -144,7 +145,7 @@ More experiments, forks and older work: [all public repositories](https://github
 
 **Volunteering**
 
-- Co-Founder and Core Team, EuroTech Federation
+- Core Team, EuroTech Federation
 - Relations Lead, Enactus München
 - Webpage and Business Development, Evolve
 - Hackathon Hub Ambassador
